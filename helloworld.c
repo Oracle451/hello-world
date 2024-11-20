@@ -3,5 +3,5 @@
 int main (void)
 {
 	// This is a comment
-	printf("hello world\n");
+	printf("Hello world!\n");
 }
